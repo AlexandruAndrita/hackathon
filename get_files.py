@@ -48,19 +48,19 @@ class HandelsregisterClient:
                 stream=stream,
             )
         except requests.RequestException as e:
-            raise HandelsregisterError(f"Request failed: {e}") from e
+            print(f"Request failed: {e}")
 
-        # Basic error handling
-        if not resp.ok:
-            try:
-                err_json = resp.json()
-            except ValueError:
-                err_json = None
+        # # Basic error handling
+        # if not resp.ok:
+        #     try:
+        #         err_json = resp.json()
+        #     except ValueError:
+        #         err_json = None
 
-            msg = f"API error {resp.status_code}"
-            if err_json and "message" in err_json:
-                msg += f": {err_json['message']}"
-            raise HandelsregisterError(msg)
+        #     msg = f"API error {resp.status_code}"
+        #     if err_json and "message" in err_json:
+        #         msg += f": {err_json['message']}"
+        #     raise HandelsregisterError(msg)
 
         return resp
 
@@ -153,7 +153,7 @@ search_result = client.search_organizations(
     "ODDO BHF SE",
     limit=20,
 )
-pprint(search_result)
+# pprint(search_result)
 
 entity_ids = []
 for item in search_result["results"]:
@@ -171,17 +171,20 @@ profile = client.fetch_organization(
         "annual_financial_statements",
     ],
 )
-pprint(profile)
+# pprint(profile)
 json.dump(profile, open("oddo_bhf_profile.json", "w"), indent=2)
 
-# 3) Download e.g. shareholders list PDF (if available)
-client.fetch_document(
-    company_id=entity_ids[0],
-    document_type="CD",
-    output_path="oddo_bhf_CD_test.pdf",
-)
+annual_financial_statements = profile["annual_financial_statements"]
 
-# list_docs = profile["annual_financial_statements"]
+document_types = ["shareholders_list", "CD", "AD"]
+
+for document_type in document_types:
+    client.fetch_document(
+        company_id=entity_ids[0],
+        document_type=document_type,
+        output_path=f"oddo_bhf_{document_type}.pdf",
+    )
+
 # for doc in list_docs:
 #     print(
 #         f"Downloading {doc['document_type']} from {doc['fiscal_year']}..."
