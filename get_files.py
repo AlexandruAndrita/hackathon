@@ -177,8 +177,8 @@ json.dump(profile, open("oddo_bhf_profile.json", "w"), indent=2)
 # 3) Download e.g. shareholders list PDF (if available)
 client.fetch_document(
     company_id=entity_ids[0],
-    document_type="AD",
-    output_path="pdfs/oddo_bhf_AD_test.pdf",
+    document_type="CD",
+    output_path="oddo_bhf_CD_test.pdf",
 )
 
 # list_docs = profile["annual_financial_statements"]
