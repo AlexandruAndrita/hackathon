@@ -13,7 +13,7 @@ class HandelsregisterError(Exception):
 
 class HandelsregisterClient:
     """
-    Simple Python client for the handelsregister.ai API.
+    Python client for the handelsregister.ai API.
     Docs: https://handelsregister.ai/en/documentation
     """
 
@@ -64,7 +64,6 @@ class HandelsregisterClient:
 
         return resp
 
-    # 1) Search companies by name / generic query
     def search_organizations(
         self,
         query: str,
@@ -90,7 +89,6 @@ class HandelsregisterClient:
         resp = self._request("GET", "/search-organizations", params=params)
         return resp.json()
 
-    # 2) Fetch full company profile
     def fetch_organization(
         self,
         query: str,
@@ -119,7 +117,6 @@ class HandelsregisterClient:
         resp = self._request("GET", "/fetch-organization", params=params)
         return resp.json()
 
-    # 3) Download an official document as PDF
     def fetch_document(
         self,
         company_id: str,
@@ -140,15 +137,16 @@ class HandelsregisterClient:
 
         resp = self._request("GET", "/fetch-document", params=params, stream=True)
 
-        with open(output_path, "wb") as f:
-            for chunk in resp.iter_content(chunk_size=8192):
-                if chunk:
-                    f.write(chunk)
+        # with open(output_path, "wb") as f:
+        #     for chunk in resp.iter_content(chunk_size=8192):
+        #         if chunk:
+        #             f.write(chunk)
+
+        return resp
 
 
 client = HandelsregisterClient(REGISTER_HANDLER_API_KEY)
 
-# 1) Find the right entity by name
 search_result = client.search_organizations(
     "ODDO BHF SE",
     limit=20,
@@ -161,7 +159,6 @@ for item in search_result["results"]:
 
 print("Found entity IDs:", entity_ids)
 
-# 2) Fetch full profile with extra features
 profile = client.fetch_organization(
     "ODDO BHF",
     features=[
@@ -176,14 +173,27 @@ json.dump(profile, open("oddo_bhf_profile.json", "w"), indent=2)
 
 annual_financial_statements = profile["annual_financial_statements"]
 
-document_types = ["shareholders_list", "CD", "AD"]
+# document_types = ["shareholders_list", "CD", "AD"]
+document_types = ["CD", "AD"]
 
 for document_type in document_types:
-    client.fetch_document(
-        company_id=entity_ids[0],
-        document_type=document_type,
-        output_path=f"oddo_bhf_{document_type}.pdf",
-    )
+    try:
+        
+        response = client.fetch_document(
+            company_id=entity_ids[0],
+            document_type=document_type,
+            output_path=f"oddo_bhf_{document_type}.pdf",
+        )
+        print(response)
+
+        document_url = response.url
+        print("Document URL:", document_url)
+
+        content_type = response.headers.get("Content-Type", "")
+        mime_type = content_type.split(";")[0].strip()
+        print("MIME type:", mime_type)
+    except Exception as e:
+        print(f"Error getting document_type {document_type}: {e}")
 
 # for doc in list_docs:
 #     print(
