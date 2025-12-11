@@ -1,0 +1,6 @@
+{
+  "email": "info.frankfurt@oddo-bhf.com",
+  "phone": "+49697180",
+  "source_url": "https://www.oddo-bhf.com/de/impressum-und-pflichtangaben/",
+  "vat_id": "DE814165346"
+}

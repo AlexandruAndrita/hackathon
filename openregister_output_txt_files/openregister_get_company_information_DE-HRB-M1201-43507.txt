@@ -1,0 +1,923 @@
+{
+  "address": {
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "formatted_value": "Gallusanlage 8, 60329 Frankfurt am Main",
+    "postal_code": "60329",
+    "start_date": "2023-08-31",
+    "street": "Gallusanlage 8"
+  },
+  "addresses": [
+    {
+      "city": "Frankfurt am Main",
+      "country": "DE",
+      "formatted_value": "Frankfurt am Main",
+      "start_date": "2004-08-31"
+    },
+    {
+      "city": "Frankfurt am Main",
+      "country": "DE",
+      "formatted_value": "Neue Rothofstraße 17, 60313 Frankfurt am Main",
+      "postal_code": "60313",
+      "start_date": "2008-11-10",
+      "street": "Neue Rothofstraße 17"
+    },
+    {
+      "city": "Frankfurt am Main",
+      "country": "DE",
+      "formatted_value": "Schillerstraße 27-29, 60313 Frankfurt am Main",
+      "postal_code": "60313",
+      "start_date": "2009-04-09",
+      "street": "Schillerstraße 27-29"
+    },
+    {
+      "city": "Frankfurt am Main",
+      "country": "DE",
+      "formatted_value": "Bockenheimer Landstraße 10, 60323 Frankfurt am Main",
+      "postal_code": "60323",
+      "start_date": "2022-03-25",
+      "street": "Bockenheimer Landstraße 10"
+    },
+    {
+      "city": "Frankfurt am Main",
+      "country": "DE",
+      "formatted_value": "Gallusanlage 8, 60329 Frankfurt am Main",
+      "postal_code": "60329",
+      "start_date": "2023-08-31",
+      "street": "Gallusanlage 8"
+    }
+  ],
+  "capital": {
+    "amount": 511291.88,
+    "currency": "EUR",
+    "start_date": "2004-08-31"
+  },
+  "capitals": [
+    {
+      "amount": 511291.88,
+      "currency": "EUR",
+      "start_date": "2004-08-31"
+    }
+  ],
+  "contact": null,
+  "documents": [],
+  "id": "DE-HRB-M1201-43507",
+  "incorporated_at": "1997-07-30",
+  "indicators": [
+    {
+      "balance_sheet_total": 2946613007,
+      "capital_reserves": null,
+      "cash": 64502,
+      "date": "2023-12-31",
+      "employees": null,
+      "equity": 1599166197,
+      "liabilities": 163035879,
+      "materials": null,
+      "net_income": 0,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": -2688249
+    },
+    {
+      "balance_sheet_total": 2346256478,
+      "capital_reserves": null,
+      "cash": 90671,
+      "date": "2022-12-31",
+      "employees": null,
+      "equity": 1628890410,
+      "liabilities": 32182226,
+      "materials": null,
+      "net_income": 29724213,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": -6082948
+    },
+    {
+      "balance_sheet_total": 2754612378,
+      "capital_reserves": null,
+      "cash": 120511,
+      "date": "2021-12-31",
+      "employees": null,
+      "equity": 1750267993,
+      "liabilities": 55950293,
+      "materials": null,
+      "net_income": 151101796,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": -8901435
+    },
+    {
+      "balance_sheet_total": 2450498235,
+      "capital_reserves": null,
+      "cash": 173625,
+      "date": "2020-12-31",
+      "employees": 65,
+      "equity": 1599166197,
+      "liabilities": 26560545,
+      "materials": null,
+      "net_income": 194948914,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": -16288586
+    },
+    {
+      "balance_sheet_total": 2167377968,
+      "capital_reserves": null,
+      "cash": 45272,
+      "date": "2019-12-31",
+      "employees": 63,
+      "equity": 1404217283,
+      "liabilities": 38746895,
+      "materials": null,
+      "net_income": 0,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": 54391330
+    },
+    {
+      "balance_sheet_total": 2356716742,
+      "capital_reserves": null,
+      "cash": 137850,
+      "date": "2018-12-31",
+      "employees": null,
+      "equity": 1404217283,
+      "liabilities": 108362419,
+      "materials": null,
+      "net_income": 0,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": 0
+    },
+    {
+      "balance_sheet_total": 2420188271,
+      "capital_reserves": null,
+      "cash": 230907,
+      "date": "2017-12-31",
+      "employees": null,
+      "equity": 1404217283,
+      "liabilities": 87905587,
+      "materials": null,
+      "net_income": 0,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": 1109101
+    },
+    {
+      "balance_sheet_total": 2860863391,
+      "capital_reserves": null,
+      "cash": 195161,
+      "date": "2016-12-31",
+      "employees": null,
+      "equity": null,
+      "liabilities": null,
+      "materials": null,
+      "net_income": 466406411,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": 0
+    },
+    {
+      "balance_sheet_total": 5673579900,
+      "capital_reserves": null,
+      "cash": 59986,
+      "date": "2015-12-31",
+      "employees": null,
+      "equity": 2698638537,
+      "liabilities": 800238715,
+      "materials": null,
+      "net_income": -4933923,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": 0
+    },
+    {
+      "balance_sheet_total": 6527343741,
+      "capital_reserves": null,
+      "cash": 270996,
+      "date": "2015-08-01",
+      "employees": null,
+      "equity": 2693704614,
+      "liabilities": 575446452,
+      "materials": null,
+      "net_income": 823080920,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": null,
+      "taxes": 450753972
+    },
+    {
+      "balance_sheet_total": 6527343741,
+      "capital_reserves": null,
+      "cash": 270996,
+      "date": "2015-07-31",
+      "employees": null,
+      "equity": null,
+      "liabilities": null,
+      "materials": null,
+      "net_income": 823080920,
+      "pension_provisions": null,
+      "real_estate": null,
+      "report_id": "00000000-0000-0000-0000-000000000000",
+      "revenue": null,
+      "salaries": 153820697,
+      "taxes": 450753972
+    }
+  ],
+  "industry_codes": {
+    "WZ2025": []
+  },
+  "legal_form": "ag",
+  "name": {
+    "legal_form": "ag",
+    "name": "ODDO BHF Corporates & Markets AG",
+    "start_date": "2021-02-09"
+  },
+  "names": [
+    {
+      "legal_form": "ag",
+      "name": "Seydler Aktiengesellschaft Securities & Financial Services Wertpapierhandelsbank",
+      "start_date": "2004-08-31"
+    },
+    {
+      "legal_form": "ag",
+      "name": "Close Brothers Seydler AG Wertpapierhandelsbank",
+      "start_date": "2005-05-31"
+    },
+    {
+      "legal_form": "ag",
+      "name": "Close Brothers Seydler Bank AG",
+      "start_date": "2008-11-06"
+    },
+    {
+      "legal_form": "ag",
+      "name": "ODDO SEYDLER BANK AG",
+      "start_date": "2015-01-08"
+    },
+    {
+      "legal_form": "ag",
+      "name": "ODDO BHF Corporates & Markets AG",
+      "start_date": "2021-02-09"
+    }
+  ],
+  "purpose": {
+    "purpose": "1. Die Vermittlung von Geschäften über die Anschaffung und die Veräußerung von Finanzinstrumenten oder deren Nachweise (Anlagevermittlung), 2. die Anschaffung und die Veräußerung von Finanzinstrumenten im fremden Namen für fremde Rechnung (Abschlussvermittlung), 3. die Anschaffung und die Veräußerung von Finanzinstrumenten im Wege des Eigenhandels für andere (Eigenhandel), 4. die Anschaffung und die Veräußerung von Finanzinstrumenten in eigenem Namen und für fremde Rechnung (Finanzkommissionsgeschäft), 5. die Hereinnahme fremder Gelder als Einlagen oder anderer unbedingt rückzahlbarer Gelder des Publikums, sofern der Rückzahlungsanspruch nicht in Inhaber - oder Orderschuldverschreibungen verbrieft ist, ohne Rücksicht darauf, ob Zinsen vergütet werden (Einlagengeschäft), 6. die Gewährung von Gelddarlehen und Akzeptkrediten (Kreditgeschäft) in Form von Lombardkrediten, 7. die Verwahrung und Verwaltung von Wertpapieren für andere (Depotgeschäft), 8. die Ausführung des bargeldlosen Zahlungsverkehrs und des Abrechnungsverkehrs (Girogeschäft), 9. das Platzieren von Finanzinstrumenten ohne feste Übernahmeverpflichtung (Platzierungsgeschäft), 10. die Übernahme von Finanzinstrumenten für eigenes Risiko zur Platzierung oder die Übernahme gleichwertiger Garantien (Emissionsgeschäft).",
+    "start_date": "2008-11-06"
+  },
+  "purposes": [
+    {
+      "purpose": "1. Die Vermittlung von Geschäften über die Anschaffung und die Veräußerung von Finanzinstrumenten oder deren Nachweise (Anlagevermittlung), 2. die Anschaffung und die Veräußerung von Finanzinstrumenten im fremden Namen für fremde Rechnung (Abschlussvermittlung), 3. die Anschaffung und die Veräußerung von Finanzinstrumenten im Wege des Eigenhandels für andere (Eigenhandel), 4. die Anschaffung und die Veräußerung von Finanzinstrumenten in eigenem Namen und für fremde Rechnung (Finanzkommissionsgeschäft).",
+      "start_date": "2004-08-31"
+    },
+    {
+      "purpose": "1. Die Vermittlung von Geschäften über die Anschaffung und die Veräußerung von Finanzinstrumenten oder deren Nachweise (Anlagevermittlung), 2. die Anschaffung und die Veräußerung von Finanzinstrumenten im fremden Namen für fremde Rechnung (Abschlussvermittlung), 3. die Anschaffung und die Veräußerung von Finanzinstrumenten im Wege des Eigenhandels für andere (Eigenhandel), 4. die Anschaffung und die Veräußerung von Finanzinstrumenten in eigenem Namen und für fremde Rechnung (Finanzkommissionsgeschäft), 5. die Hereinnahme fremder Gelder als Einlagen oder anderer unbedingt rückzahlbarer Gelder des Publikums, sofern der Rückzahlungsanspruch nicht in Inhaber - oder Orderschuldverschreibungen verbrieft ist, ohne Rücksicht darauf, ob Zinsen vergütet werden (Einlagengeschäft), 6. die Gewährung von Gelddarlehen und Akzeptkrediten (Kreditgeschäft) in Form von Lombardkrediten, 7. die Verwahrung und Verwaltung von Wertpapieren für andere (Depotgeschäft), 8. die Ausführung des bargeldlosen Zahlungsverkehrs und des Abrechnungsverkehrs (Girogeschäft).",
+      "start_date": "2008-02-14"
+    },
+    {
+      "purpose": "1. Die Vermittlung von Geschäften über die Anschaffung und die Veräußerung von Finanzinstrumenten oder deren Nachweise (Anlagevermittlung), 2. die Anschaffung und die Veräußerung von Finanzinstrumenten im fremden Namen für fremde Rechnung (Abschlussvermittlung), 3. die Anschaffung und die Veräußerung von Finanzinstrumenten im Wege des Eigenhandels für andere (Eigenhandel), 4. die Anschaffung und die Veräußerung von Finanzinstrumenten in eigenem Namen und für fremde Rechnung (Finanzkommissionsgeschäft), 5. die Hereinnahme fremder Gelder als Einlagen oder anderer unbedingt rückzahlbarer Gelder des Publikums, sofern der Rückzahlungsanspruch nicht in Inhaber - oder Orderschuldverschreibungen verbrieft ist, ohne Rücksicht darauf, ob Zinsen vergütet werden (Einlagengeschäft), 6. die Gewährung von Gelddarlehen und Akzeptkrediten (Kreditgeschäft) in Form von Lombardkrediten, 7. die Verwahrung und Verwaltung von Wertpapieren für andere (Depotgeschäft), 8. die Ausführung des bargeldlosen Zahlungsverkehrs und des Abrechnungsverkehrs (Girogeschäft), 9. das Platzieren von Finanzinstrumenten ohne feste Übernahmeverpflichtung (Platzierungsgeschäft).",
+      "start_date": "2008-05-16"
+    },
+    {
+      "purpose": "1. Die Vermittlung von Geschäften über die Anschaffung und die Veräußerung von Finanzinstrumenten oder deren Nachweise (Anlagevermittlung), 2. die Anschaffung und die Veräußerung von Finanzinstrumenten im fremden Namen für fremde Rechnung (Abschlussvermittlung), 3. die Anschaffung und die Veräußerung von Finanzinstrumenten im Wege des Eigenhandels für andere (Eigenhandel), 4. die Anschaffung und die Veräußerung von Finanzinstrumenten in eigenem Namen und für fremde Rechnung (Finanzkommissionsgeschäft), 5. die Hereinnahme fremder Gelder als Einlagen oder anderer unbedingt rückzahlbarer Gelder des Publikums, sofern der Rückzahlungsanspruch nicht in Inhaber - oder Orderschuldverschreibungen verbrieft ist, ohne Rücksicht darauf, ob Zinsen vergütet werden (Einlagengeschäft), 6. die Gewährung von Gelddarlehen und Akzeptkrediten (Kreditgeschäft) in Form von Lombardkrediten, 7. die Verwahrung und Verwaltung von Wertpapieren für andere (Depotgeschäft), 8. die Ausführung des bargeldlosen Zahlungsverkehrs und des Abrechnungsverkehrs (Girogeschäft), 9. das Platzieren von Finanzinstrumenten ohne feste Übernahmeverpflichtung (Platzierungsgeschäft), 10. die Übernahme von Finanzinstrumenten für eigenes Risiko zur Platzierung oder die Übernahme gleichwertiger Garantien (Emissionsgeschäft).",
+      "start_date": "2008-11-06"
+    }
+  ],
+  "register": {
+    "company_id": "DE-HRB-M1201-43507",
+    "register_court": "Frankfurt am Main",
+    "register_number": "43507",
+    "register_type": "HRB",
+    "start_date": "2004-08-31"
+  },
+  "registers": [
+    {
+      "company_id": "DE-HRB-M1201-43507",
+      "register_court": "Frankfurt am Main",
+      "register_number": "43507",
+      "register_type": "HRB",
+      "start_date": "2004-08-31"
+    }
+  ],
+  "representation": [
+    {
+      "end_date": "2005-01-03",
+      "id": "6cbe8494-3971-416b-87d6-6bda522c5937",
+      "legal_person": null,
+      "name": "Marco Kunz",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1971-10-14",
+        "first_name": "Marco",
+        "last_name": "Kunz"
+      },
+      "role": "PROKURA",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2004-10-29",
+      "id": "ec5e45a8-fddb-4859-86bf-acf19c7c7b28",
+      "legal_person": null,
+      "name": "Ralph Ristau",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1961-02-13",
+        "first_name": "Ralph",
+        "last_name": "Ristau"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2008-11-10",
+      "id": "cc302aad-6e26-4140-8fba-10bae1c3c434",
+      "legal_person": null,
+      "name": "Hannelore Eberz",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1956-01-14",
+        "first_name": "Hannelore",
+        "last_name": "Eberz"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": "bdce6c88-e501-4b62-81d9-8dc6a3cf5b52",
+      "legal_person": null,
+      "name": "Hergen Vollmers",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1963-02-02",
+        "first_name": "Hergen",
+        "last_name": "Vollmers"
+      },
+      "role": "PROKURA",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": null,
+      "legal_person": null,
+      "name": "Guido Prey",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": null,
+        "first_name": "Guido",
+        "last_name": "Prey"
+      },
+      "role": "PROKURA",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2005-01-03",
+      "id": "62ebadb6-b2e7-4cb2-985d-947dffda7c8e",
+      "legal_person": null,
+      "name": "Thomas Pirzer",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1961-02-09",
+        "first_name": "Thomas",
+        "last_name": "Pirzer"
+      },
+      "role": "PROKURA",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": "a1c5b638-06f2-4ae4-95da-0e25918312fa",
+      "legal_person": null,
+      "name": "Gabriele Trapp",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1955-09-26",
+        "first_name": "Gabriele",
+        "last_name": "Trapp"
+      },
+      "role": "PROKURA",
+      "start_date": "2004-08-31",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2005-05-31",
+      "id": "656745c9-ac82-4551-95c5-f83965375ce0",
+      "legal_person": null,
+      "name": "Gerold Lehmann",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1939-02-16",
+        "first_name": "Gerold",
+        "last_name": "Lehmann"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2004-10-29",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": "b7ac1c1a-22a3-4441-8d3b-784bb176267d",
+      "legal_person": null,
+      "name": "Holger Gröber",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1958-09-04",
+        "first_name": "Holger",
+        "last_name": "Gröber"
+      },
+      "role": "PROKURA",
+      "start_date": "2004-10-29",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2008-02-14",
+      "id": "8c051daf-5874-4e26-be3e-9fb4c14610c7",
+      "legal_person": null,
+      "name": "Hans Joachim Goehtz",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1949-02-11",
+        "first_name": "Hans Joachim",
+        "last_name": "Goehtz"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2004-11-18",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": "3aba8e71-b97e-4f2b-b556-5aa6b8a5a92e",
+      "legal_person": null,
+      "name": "Andrea Böhler",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1957-07-14",
+        "first_name": "Andrea",
+        "last_name": "Böhler"
+      },
+      "role": "PROKURA",
+      "start_date": "2005-01-03",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": "1423ec85-b37c-456f-bf5d-d3c225fb4f5d",
+      "legal_person": null,
+      "name": "Markus Kessler",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1974-09-20",
+        "first_name": "Markus",
+        "last_name": "Kessler"
+      },
+      "role": "PROKURA",
+      "start_date": "2005-01-03",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2007-08-29",
+      "id": "6e0e1925-c479-4fc4-974c-b74a9f0ec2b3",
+      "legal_person": null,
+      "name": "Rene Parmantier",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1975-05-03",
+        "first_name": "Rene",
+        "last_name": "Parmantier"
+      },
+      "role": "PROKURA",
+      "start_date": "2005-08-25",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2009-07-07",
+      "id": "76dd559e-61a4-4329-aaa0-b136cececafc",
+      "legal_person": null,
+      "name": "Daniel Liebau",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1978-12-20",
+        "first_name": "Daniel",
+        "last_name": "Liebau"
+      },
+      "role": "PROKURA",
+      "start_date": "2007-09-25",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2008-11-25",
+      "id": "d03bb34a-23c4-4dda-8dad-0a8f580884c3",
+      "legal_person": null,
+      "name": "Roland Hemmerich",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1951-10-28",
+        "first_name": "Roland",
+        "last_name": "Hemmerich"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2008-02-14",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2020-07-22",
+      "id": "9a2a3991-02d5-43e9-8dcb-66703ef34291",
+      "legal_person": null,
+      "name": "René Parmantier",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1975-05-03",
+        "first_name": "René",
+        "last_name": "Parmantier"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2008-08-18",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "b7ac1c1a-22a3-4441-8d3b-784bb176267d",
+      "legal_person": null,
+      "name": "Holger Gröber",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1958-09-04",
+        "first_name": "Holger",
+        "last_name": "Gröber"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2008-11-10",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2017-02-06",
+      "id": "f9310baa-d10f-45a7-90ca-b60de4294ecb",
+      "legal_person": null,
+      "name": "Burkhard Ziegler",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1968-10-09",
+        "first_name": "Burkhard",
+        "last_name": "Ziegler"
+      },
+      "role": "PROKURA",
+      "start_date": "2009-01-21",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2012-07-18",
+      "id": "a70fbacb-de97-4ffd-a55f-3d054e5f3991",
+      "legal_person": null,
+      "name": "Peter Karger",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1968-04-04",
+        "first_name": "Peter",
+        "last_name": "Karger"
+      },
+      "role": "PROKURA",
+      "start_date": "2009-01-21",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2019-08-01",
+      "id": "36d60e37-6e55-40c4-8f4f-ec565281e9c1",
+      "legal_person": null,
+      "name": "Silke Schlünsen",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1972-12-02",
+        "first_name": "Silke",
+        "last_name": "Schlünsen"
+      },
+      "role": "PROKURA",
+      "start_date": "2009-07-07",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2010-03-24",
+      "id": "a8fd14f3-e0f7-4b64-ac3f-816966af77e6",
+      "legal_person": null,
+      "name": "Robert Schlick",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1966-08-13",
+        "first_name": "Robert",
+        "last_name": "Schlick"
+      },
+      "role": "PROKURA",
+      "start_date": "2009-09-08",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2017-04-10",
+      "id": "6adb086e-ebf3-4bb4-894f-bf715d57f93f",
+      "legal_person": null,
+      "name": "Dietmar Schieber",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1970-02-14",
+        "first_name": "Dietmar",
+        "last_name": "Schieber"
+      },
+      "role": "PROKURA",
+      "start_date": "2010-12-22",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2013-04-24",
+      "id": "51d48f5c-06df-41ad-adcb-a22d0d38682d",
+      "legal_person": null,
+      "name": "Thomas Kaufmann",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1963-07-02",
+        "first_name": "Thomas",
+        "last_name": "Kaufmann"
+      },
+      "role": "PROKURA",
+      "start_date": "2010-12-22",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2013-04-24",
+      "id": "c57698c6-b87e-4462-9249-cf86b7a0d46b",
+      "legal_person": null,
+      "name": "Raimar Bock",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1959-02-18",
+        "first_name": "Raimar",
+        "last_name": "Bock"
+      },
+      "role": "PROKURA",
+      "start_date": "2011-06-09",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2016-04-18",
+      "id": "113318f8-e767-4881-a63d-9511b3741f62",
+      "legal_person": null,
+      "name": "Sven Janssen",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1972-05-30",
+        "first_name": "Sven",
+        "last_name": "Janssen"
+      },
+      "role": "PROKURA",
+      "start_date": "2012-07-18",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "1423ec85-b37c-456f-bf5d-d3c225fb4f5d",
+      "legal_person": null,
+      "name": "Markus Keßler",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1974-09-20",
+        "first_name": "Markus",
+        "last_name": "Keßler"
+      },
+      "role": "PROKURA",
+      "start_date": "2013-04-24",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2017-02-06",
+      "id": "dce1068b-2bd2-4839-bf5e-12d35c8ca9a7",
+      "legal_person": null,
+      "name": "Karl Filbert",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1961-03-03",
+        "first_name": "Karl",
+        "last_name": "Filbert"
+      },
+      "role": "PROKURA",
+      "start_date": "2014-10-16",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "f4c4f886-71a0-4f48-b731-4d76565054ee",
+      "legal_person": null,
+      "name": "Jörg Schneider",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1974-07-28",
+        "first_name": "Jörg",
+        "last_name": "Schneider"
+      },
+      "role": "PROKURA",
+      "start_date": "2014-10-16",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2022-08-18",
+      "id": "43d41893-79b5-4c0d-b284-ab4adfc8b88a",
+      "legal_person": null,
+      "name": "Markus Schlott",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1973-08-04",
+        "first_name": "Markus",
+        "last_name": "Schlott"
+      },
+      "role": "PROKURA",
+      "start_date": "2014-10-16",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2017-02-06",
+      "id": "5dd96417-67eb-4ec5-99ef-3bd76a7d0a08",
+      "legal_person": null,
+      "name": "Norbert Ahrens",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1969-03-01",
+        "first_name": "Norbert",
+        "last_name": "Ahrens"
+      },
+      "role": "PROKURA",
+      "start_date": "2014-10-16",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2020-09-03",
+      "id": "8b80f89f-5646-4a70-9b80-2810710fdfb1",
+      "legal_person": null,
+      "name": "Bernhard Fromm",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1974-08-21",
+        "first_name": "Bernhard",
+        "last_name": "Fromm"
+      },
+      "role": "PROKURA",
+      "start_date": "2014-10-16",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "90e12ef6-4fe2-436b-b8af-a9fa787374ff",
+      "legal_person": null,
+      "name": "Rainer Petz",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1971-02-22",
+        "first_name": "Rainer",
+        "last_name": "Petz"
+      },
+      "role": "PROKURA",
+      "start_date": "2014-11-12",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2016-04-18",
+      "id": "c0ccdb3a-c837-4f04-ac0d-207fc2d19101",
+      "legal_person": null,
+      "name": "Roger Peeters",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1973-09-07",
+        "first_name": "Roger",
+        "last_name": "Peeters"
+      },
+      "role": "PROKURA",
+      "start_date": "2015-03-23",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2022-11-21",
+      "id": "e588f680-92e0-4141-956e-89ed1f60b1b3",
+      "legal_person": null,
+      "name": "Grégoire Charbit",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1964-10-08",
+        "first_name": "Grégoire",
+        "last_name": "Charbit"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2015-10-12",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "2e289978-a67a-417b-91b9-9b44ab7640e0",
+      "legal_person": null,
+      "name": "Christophe Tadie",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1971-03-14",
+        "first_name": "Christophe",
+        "last_name": "Tadie"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2015-10-12",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "0d2c3cd7-b4eb-4292-9ab5-f065dea200cf",
+      "legal_person": null,
+      "name": "Dennis Kaun",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1974-11-19",
+        "first_name": "Dennis",
+        "last_name": "Kaun"
+      },
+      "role": "PROKURA",
+      "start_date": "2020-04-21",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "152f40bd-cc0b-4200-9665-b650287d9a52",
+      "legal_person": null,
+      "name": "Oliver Roth",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1968-01-30",
+        "first_name": "Oliver",
+        "last_name": "Roth"
+      },
+      "role": "PROKURA",
+      "start_date": "2020-11-17",
+      "type": "natural_person"
+    },
+    {
+      "end_date": "2023-08-21",
+      "id": "9e1c4669-eebf-482d-b8e3-c9a75c9ace9a",
+      "legal_person": null,
+      "name": "Jose Angel Fernandez Garbin",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1965-03-26",
+        "first_name": "Jose Angel",
+        "last_name": "Fernandez Garbin"
+      },
+      "role": "PROKURA",
+      "start_date": "2022-08-18",
+      "type": "natural_person"
+    },
+    {
+      "end_date": null,
+      "id": "a2c58248-644f-477b-bfc3-543f4dbbf613",
+      "legal_person": null,
+      "name": "Olivier Ouahnia",
+      "natural_person": {
+        "city": null,
+        "date_of_birth": "1974-11-19",
+        "first_name": "Olivier",
+        "last_name": "Ouahnia"
+      },
+      "role": "DIRECTOR",
+      "start_date": "2022-11-21",
+      "type": "natural_person"
+    }
+  ],
+  "sources": [
+    {
+      "document_url": "https://cap-history-documents.s3.eu-central-1.amazonaws.com/DE-HRB-M1201-43507/1719557924.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Checksum-Mode=ENABLED&X-Amz-Credential=ASIAU3PX5SDTT5SKECH4%2F20251211%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T015055Z&X-Amz-Expires=1800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBQaDGV1LWNlbnRyYWwtMSJHMEUCIQDt7JnnWHk865OXHN237pd8Ty08SSySNKfhpNRny4s39AIgQmslM6uMi6aTMB7TufgF6uVvoguyWKXiYGHPFwVBGigq%2BQMI3f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgwzMzM5MTY3NzA1MzUiDEm9B0qu3IXRj18utyrNA8rTqlWM6O6Rrf6SYbay45o%2FF0brSPr1G0Y7aO%2FZLbuu%2FS8W0PAXsdY8V0V4OtXQpE0pvicy8riiihUpHgzP9%2BhIX0yevpIYj6MucV8PK9OY50%2F9gS%2Bnhux5y41NkwRQvIlvc3AQdOGkL0%2BRYUjREbOiTk%2FcZNfHK0xmG4WaoRNuKCZdEX2Iys07Q8ro2JFQ2KGxzAEJl3Hia%2BcBUZ0MKPJu6jxeVk4rZfhhkeQJDVK4qnWY0lTMtP7HzvC%2FMXqQPlVycs7zt7hqxZoT1wy0KGxCx17QeJ5pCVTYa38dm1jyagQLsCJuAvUBkQD%2FqBRNmL8WRCaKf%2Bh7wv4%2BgUGEyTrrtO3B1CjS70Y2Lmty4SaeCql05CPW5tCU%2B88Yv2xFC58FDSfcrvaRv%2BnSWZlmF4%2BVQFXPpR%2FsACDIE6LH4EQ%2FlJgMYGNuSsWIXKm1fnXwXzEJ2dUKB1Lb0b1yFLmWT0%2BYHGaH1DTEEI2eEcgJ9xjYgYPxPxAO8E4O%2FnhZ4mAB7x5kEGSsY0baZc4B%2Fu8qOaHoURnv8VpU2gTqFwP8UfU7ug%2FJ0vzrg9z7U4eq66ky3RD5JErl%2F5%2Bmdc2Cwv03cqIPRvLCn2tWiMEtSSVYMKWn58kGOqUBhBdN4DXjS9PJ4PZNQWVfCUqpSplMfJC0l76ev8hsVeg0qiKObHHnXSkKPhlAz2udAsEwsa7p5naRYf2IoyZFf%2FKmbi07c7LfAEFO%2BZQ3i4A0j%2FFcaSMEVVNmuDsCh9uw7WmgAkBOSOjA1ziQ1roSECKNcztTtNdbJRFRHSz54Ue1OEBjhdZTzT8r3z8U2W6adR9fgHjjaK9nBQ%2FBn0wh57qHVHvT&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22chronological_printout.pdf%22&response-content-type=application%2Fpdf&x-id=GetObject&X-Amz-Signature=6b8c91e2e4f53eb8091b0c107ba537279a9219bc52b131a499cf1ae1191cf88a"
+    }
+  ],
+  "status": "inactive",
+  "terminated_at": "2007-08-29"
+}

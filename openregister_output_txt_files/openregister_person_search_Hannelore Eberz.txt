@@ -1,0 +1,17 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 10,
+    "total_pages": 1,
+    "total_results": 1
+  },
+  "results": [
+    {
+      "active": false,
+      "city": "Bad Homburg v. d. Höhe",
+      "date_of_birth": "1956-01-14",
+      "id": "cc302aad-6e26-4140-8fba-10bae1c3c434",
+      "name": "Hannelore Eberz"
+    }
+  ]
+}

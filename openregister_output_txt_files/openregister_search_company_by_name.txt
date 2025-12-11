@@ -1,0 +1,24 @@
+[
+  {
+    active: true,
+    company_id: 'DE-HRB-M1201-128843',
+    country: 'DE',
+    legal_form: 'se',
+    name: 'ODDO BHF SE',
+    register_court: 'Frankfurt am Main',
+    register_number: '128843',
+    register_type: 'HRB'
+  },
+  {
+    active: false,
+    company_id: 'DE-HRB-M1201-43507',
+    country: 'DE',
+    legal_form: 'ag',
+    name: 'ODDO BHF Corporates & Markets AG',
+    register_court: 'Frankfurt am Main',
+    register_number: '43507',
+    register_type: 'HRB'
+  }
+]
+
+

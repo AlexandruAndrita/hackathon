@@ -1,0 +1,1031 @@
+{
+  "merged": {
+    "aktiva": {
+      "rows": [
+        {
+          "children": [],
+          "formatted_name": "Barreserve",
+          "name": "Barreserve",
+          "values": {
+            "2018-12-31": 128945600000,
+            "2023-12-31": 3565900000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Forderungen an Kreditinstitute",
+          "name": "Forderungen an Kreditinstitute",
+          "values": {
+            "2018-12-31": 76753500000,
+            "2023-12-31": 490058600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Forderungen an Kunden",
+          "name": "Forderungen an Kunden",
+          "values": {
+            "2018-12-31": 122903300000,
+            "2023-12-31": 134667400000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Schuldverschreibungen",
+          "name": "Schuldverschreibungen",
+          "values": {
+            "2018-12-31": 171342800000,
+            "2023-12-31": 172152200000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Beteiligungen, Anteile an verbundenen Unternehmen",
+          "name": "Beteiligungen, Anteile an verbundenen Unternehmen",
+          "values": {
+            "2018-12-31": 16368100000,
+            "2023-12-31": 18378700000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Handelsbestand",
+          "name": "Handelsbestand",
+          "values": {
+            "2018-12-31": 19215600000,
+            "2023-12-31": 11720100000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Übrige Aktiva",
+          "name": "Übrige Aktiva",
+          "values": {
+            "2018-12-31": 22717300000,
+            "2023-12-31": 29535500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Bilanzsumme",
+          "name": "Bilanzsumme",
+          "values": {
+            "2018-12-31": 558246200000,
+            "2023-12-31": 860078400000
+          }
+        }
+      ]
+    },
+    "guv": {
+      "rows": [
+        {
+          "children": [],
+          "formatted_name": "Zinsaufwendungen",
+          "name": "Zinsaufwendungen",
+          "values": {
+            "2018-12-31": 6179300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "davon:",
+          "name": "davon:",
+          "values": {
+            "2018-12-31": 0
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Positive Zinsen",
+          "name": "Positive Zinsen",
+          "values": {
+            "2018-12-31": -210300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Provisionsaufwendungen",
+          "name": "Provisionsaufwendungen",
+          "values": {
+            "2018-12-31": 740300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Nettoaufwand des Handelsbestands",
+          "name": "Nettoaufwand des Handelsbestands",
+          "values": {
+            "2018-12-31": 1400000
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "formatted_name": "Löhne und Gehälter",
+                  "name": "aa) Löhne und Gehälter",
+                  "values": {
+                    "2018-12-31": 7646100000
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "formatted_name": "darunter:",
+                      "name": "darunter:",
+                      "values": {
+                        "2018-12-31": 0
+                      }
+                    }
+                  ],
+                  "formatted_name": "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung",
+                  "name": "ab) soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung",
+                  "values": {
+                    "2018-12-31": 1355000000
+                  }
+                }
+              ],
+              "formatted_name": "Personalaufwand",
+              "name": "a) Personalaufwand",
+              "values": {
+                "2018-12-31": 0
+              }
+            }
+          ],
+          "formatted_name": "Allgemeine Verwaltungsaufwendungen",
+          "name": "Allgemeine Verwaltungsaufwendungen",
+          "values": {
+            "2018-12-31": 0
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "formatted_name": "andere Verwaltungsaufwendungen",
+              "name": "b) andere Verwaltungsaufwendungen",
+              "values": {
+                "2018-12-31": 7285800000
+              }
+            }
+          ],
+          "formatted_name": "für Altersversorgung",
+          "name": "für Altersversorgung",
+          "values": {
+            "2018-12-31": -365500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen",
+          "name": "Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen",
+          "values": {
+            "2018-12-31": 335500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Sonstige betriebliche Aufwendungen",
+          "name": "Sonstige betriebliche Aufwendungen",
+          "values": {
+            "2018-12-31": 1162300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft",
+          "name": "Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft",
+          "values": {
+            "2018-12-31": 0
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere",
+          "name": "Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere",
+          "values": {
+            "2018-12-31": 16200000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Aufwendungen aus Verlustübernahme",
+          "name": "Aufwendungen aus Verlustübernahme",
+          "values": {
+            "2018-12-31": 487200000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Einstellung in Fonds für allgemeine Bankrisiken",
+          "name": "Einstellung in Fonds für allgemeine Bankrisiken",
+          "values": {
+            "2018-12-31": 0
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Steuern vom Einkommen und vom Ertrag",
+          "name": "Steuern vom Einkommen und vom Ertrag",
+          "values": {
+            "2018-12-31": 112800000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Sonstige Steuern, soweit nicht unter sonstigen betrieblichen Aufwendungen ausgewiesen",
+          "name": "Sonstige Steuern, soweit nicht unter sonstigen betrieblichen Aufwendungen ausgewiesen",
+          "values": {
+            "2018-12-31": -391600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Summe der Aufwendungen",
+          "name": "Summe der Aufwendungen",
+          "values": {
+            "2018-12-31": 24930300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Zinsüberschuss",
+          "name": "Zinsüberschuss",
+          "values": {
+            "2023-12-31": 15864300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Provisionsüberschuss",
+          "name": "Provisionsüberschuss",
+          "values": {
+            "2023-12-31": 15242600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Nettoergebnis des Handelsbestands",
+          "name": "Nettoergebnis des Handelsbestands",
+          "values": {
+            "2023-12-31": 710300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Verwaltungsaufwand",
+          "name": "Verwaltungsaufwand",
+          "values": {
+            "2023-12-31": -21660600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Personalaufwand",
+          "name": "Personalaufwand",
+          "values": {
+            "2023-12-31": -11989400000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Andere Verwaltungsaufwendungen",
+          "name": "Andere Verwaltungsaufwendungen",
+          "values": {
+            "2023-12-31": -8916600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Abschreibungen auf immaterielle Anlagewerte und Sachanlagen",
+          "name": "Abschreibungen auf immaterielle Anlagewerte und Sachanlagen",
+          "values": {
+            "2023-12-31": -754600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Saldo der sonstigen betrieblichen Erträge und Aufwendungen",
+          "name": "Saldo der sonstigen betrieblichen Erträge und Aufwendungen",
+          "values": {
+            "2023-12-31": 2215500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Risikovorsorge",
+          "name": "Risikovorsorge",
+          "values": {
+            "2023-12-31": 1264900000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Betriebsergebnis",
+          "name": "Betriebsergebnis",
+          "values": {
+            "2023-12-31": 13637000000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Übriges Ergebnis",
+          "name": "Übriges Ergebnis",
+          "values": {
+            "2023-12-31": -186500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Ergebnis Finanzanlagen",
+          "name": "Ergebnis Finanzanlagen",
+          "values": {
+            "2023-12-31": -186500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Ergebnis vor Steuern",
+          "name": "Ergebnis vor Steuern",
+          "values": {
+            "2023-12-31": 13450500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Ertragsteuern",
+          "name": "Ertragsteuern",
+          "values": {
+            "2023-12-31": -4680800000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Sonstige Steuern",
+          "name": "Sonstige Steuern",
+          "values": {
+            "2023-12-31": 243600000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Jahresüberschuss/-fehlbetrag",
+          "name": "Jahresüberschuss/-fehlbetrag",
+          "values": {
+            "2023-12-31": 9013300000
+          }
+        }
+      ]
+    },
+    "passiva": {
+      "rows": [
+        {
+          "children": [],
+          "formatted_name": "Verbindlichkeiten gegenüber Kreditinstituten",
+          "name": "Verbindlichkeiten gegenüber Kreditinstituten",
+          "values": {
+            "2018-12-31": 132971000000,
+            "2023-12-31": 200851900000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Verbindlichkeiten gegenüber Kunden",
+          "name": "Verbindlichkeiten gegenüber Kunden",
+          "values": {
+            "2018-12-31": 342518700000,
+            "2023-12-31": 561015400000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Verbriefte Verbindlichkeiten",
+          "name": "Verbriefte Verbindlichkeiten",
+          "values": {
+            "2018-12-31": 769800000,
+            "2023-12-31": 237300000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Handelsbestand",
+          "name": "Handelsbestand",
+          "values": {
+            "2018-12-31": 19365400000,
+            "2023-12-31": 11828200000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Übrige Passiva",
+          "name": "Übrige Passiva",
+          "values": {
+            "2018-12-31": 10656500000,
+            "2023-12-31": 18983100000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Nachrangige Verbindlichkeiten",
+          "name": "Nachrangige Verbindlichkeiten",
+          "values": {
+            "2018-12-31": 6200000000,
+            "2023-12-31": 1200000000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Eigenkapital",
+          "name": "Eigenkapital",
+          "values": {
+            "2018-12-31": 45764800000,
+            "2023-12-31": 65962500000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Bilanzsumme",
+          "name": "Bilanzsumme",
+          "values": {
+            "2018-12-31": 558246200000,
+            "2023-12-31": 860078400000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Avale, Akkreditive",
+          "name": "Avale, Akkreditive",
+          "values": {
+            "2018-12-31": 38238700000,
+            "2023-12-31": 73807200000
+          }
+        },
+        {
+          "children": [],
+          "formatted_name": "Geschäftsvolumen",
+          "name": "Geschäftsvolumen",
+          "values": {
+            "2018-12-31": 596484900000,
+            "2023-12-31": 933885600000
+          }
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "aktiva": {
+        "rows": [
+          {
+            "children": [],
+            "current_value": 3565900000,
+            "formatted_name": "Barreserve",
+            "name": "Barreserve",
+            "previous_value": -2150000
+          },
+          {
+            "children": [],
+            "current_value": 490058600000,
+            "formatted_name": "Forderungen an Kreditinstitute",
+            "name": "Forderungen an Kreditinstitute",
+            "previous_value": 350000
+          },
+          {
+            "children": [],
+            "current_value": 134667400000,
+            "formatted_name": "Forderungen an Kunden",
+            "name": "Forderungen an Kunden",
+            "previous_value": -470000
+          },
+          {
+            "children": [],
+            "current_value": 172152200000,
+            "formatted_name": "Schuldverschreibungen",
+            "name": "Schuldverschreibungen",
+            "previous_value": 1340000
+          },
+          {
+            "children": [],
+            "current_value": 18378700000,
+            "formatted_name": "Beteiligungen, Anteile an verbundenen Unternehmen",
+            "name": "Beteiligungen, Anteile an verbundenen Unternehmen",
+            "previous_value": 18378700000
+          },
+          {
+            "children": [],
+            "current_value": 11720100000,
+            "formatted_name": "Handelsbestand",
+            "name": "Handelsbestand",
+            "previous_value": -2730000
+          },
+          {
+            "children": [],
+            "current_value": 29535500000,
+            "formatted_name": "Übrige Aktiva",
+            "name": "Übrige Aktiva",
+            "previous_value": -230000
+          },
+          {
+            "children": [],
+            "current_value": 860078400000,
+            "formatted_name": "Bilanzsumme",
+            "name": "Bilanzsumme",
+            "previous_value": 290000
+          }
+        ]
+      },
+      "consolidated": false,
+      "guv": {
+        "rows": [
+          {
+            "children": [],
+            "current_value": 15864300000,
+            "formatted_name": "Zinsüberschuss",
+            "name": "Zinsüberschuss",
+            "previous_value": 7478200000
+          },
+          {
+            "children": [],
+            "current_value": 15242600000,
+            "formatted_name": "Provisionsüberschuss",
+            "name": "Provisionsüberschuss",
+            "previous_value": -180000
+          },
+          {
+            "children": [],
+            "current_value": 710300000,
+            "formatted_name": "Nettoergebnis des Handelsbestands",
+            "name": "Nettoergebnis des Handelsbestands",
+            "previous_value": 6060000
+          },
+          {
+            "children": [],
+            "current_value": -21660600000,
+            "formatted_name": "Verwaltungsaufwand",
+            "name": "Verwaltungsaufwand",
+            "previous_value": -20682500000
+          },
+          {
+            "children": [],
+            "current_value": -11989400000,
+            "formatted_name": "Personalaufwand",
+            "name": "Personalaufwand",
+            "previous_value": -380000
+          },
+          {
+            "children": [],
+            "current_value": -8916600000,
+            "formatted_name": "Andere Verwaltungsaufwendungen",
+            "name": "Andere Verwaltungsaufwendungen",
+            "previous_value": -7525100000
+          },
+          {
+            "children": [],
+            "current_value": -754600000,
+            "formatted_name": "Abschreibungen auf immaterielle Anlagewerte und Sachanlagen",
+            "name": "Abschreibungen auf immaterielle Anlagewerte und Sachanlagen",
+            "previous_value": -690900000
+          },
+          {
+            "children": [],
+            "current_value": 2215500000,
+            "formatted_name": "Saldo der sonstigen betrieblichen Erträge und Aufwendungen",
+            "name": "Saldo der sonstigen betrieblichen Erträge und Aufwendungen",
+            "previous_value": -965000000
+          },
+          {
+            "children": [],
+            "current_value": 1264900000,
+            "formatted_name": "Risikovorsorge",
+            "name": "Risikovorsorge",
+            "previous_value": -2694000000
+          },
+          {
+            "children": [],
+            "current_value": 13637000000,
+            "formatted_name": "Betriebsergebnis",
+            "name": "Betriebsergebnis",
+            "previous_value": -895500000
+          },
+          {
+            "children": [],
+            "current_value": -186500000,
+            "formatted_name": "Übriges Ergebnis",
+            "name": "Übriges Ergebnis",
+            "previous_value": 480800000
+          },
+          {
+            "children": [],
+            "current_value": -186500000,
+            "formatted_name": "Ergebnis Finanzanlagen",
+            "name": "Ergebnis Finanzanlagen",
+            "previous_value": 480800000
+          },
+          {
+            "children": [],
+            "current_value": 13450500000,
+            "formatted_name": "Ergebnis vor Steuern",
+            "name": "Ergebnis vor Steuern",
+            "previous_value": -414700000
+          },
+          {
+            "children": [],
+            "current_value": -4680800000,
+            "formatted_name": "Ertragsteuern",
+            "name": "Ertragsteuern",
+            "previous_value": -256600000
+          },
+          {
+            "children": [],
+            "current_value": 243600000,
+            "formatted_name": "Sonstige Steuern",
+            "name": "Sonstige Steuern",
+            "previous_value": -440000
+          },
+          {
+            "children": [],
+            "current_value": 9013300000,
+            "formatted_name": "Jahresüberschuss/-fehlbetrag",
+            "name": "Jahresüberschuss/-fehlbetrag",
+            "previous_value": -416400000
+          }
+        ]
+      },
+      "passiva": {
+        "rows": [
+          {
+            "children": [],
+            "current_value": 200851900000,
+            "formatted_name": "Verbindlichkeiten gegenüber Kreditinstituten",
+            "name": "Verbindlichkeiten gegenüber Kreditinstituten",
+            "previous_value": -840000
+          },
+          {
+            "children": [],
+            "current_value": 561015400000,
+            "formatted_name": "Verbindlichkeiten gegenüber Kunden",
+            "name": "Verbindlichkeiten gegenüber Kunden",
+            "previous_value": 800000
+          },
+          {
+            "children": [],
+            "current_value": 237300000,
+            "formatted_name": "Verbriefte Verbindlichkeiten",
+            "name": "Verbriefte Verbindlichkeiten",
+            "previous_value": 3240000
+          },
+          {
+            "children": [],
+            "current_value": 11828200000,
+            "formatted_name": "Handelsbestand",
+            "name": "Handelsbestand",
+            "previous_value": -2820000
+          },
+          {
+            "children": [],
+            "current_value": 18983100000,
+            "formatted_name": "Übrige Passiva",
+            "name": "Übrige Passiva",
+            "previous_value": -780000
+          },
+          {
+            "children": [],
+            "current_value": 1200000000,
+            "formatted_name": "Nachrangige Verbindlichkeiten",
+            "name": "Nachrangige Verbindlichkeiten",
+            "previous_value": 1200000000
+          },
+          {
+            "children": [],
+            "current_value": 65962500000,
+            "formatted_name": "Eigenkapital",
+            "name": "Eigenkapital",
+            "previous_value": 1240000
+          },
+          {
+            "children": [],
+            "current_value": 860078400000,
+            "formatted_name": "Bilanzsumme",
+            "name": "Bilanzsumme",
+            "previous_value": 290000
+          },
+          {
+            "children": [],
+            "current_value": 73807200000,
+            "formatted_name": "Avale, Akkreditive",
+            "name": "Avale, Akkreditive",
+            "previous_value": 4320000
+          },
+          {
+            "children": [],
+            "current_value": 933885600000,
+            "formatted_name": "Geschäftsvolumen",
+            "name": "Geschäftsvolumen",
+            "previous_value": 530000
+          }
+        ]
+      },
+      "report_end_date": "2023-12-31",
+      "report_id": "a245bc9a-31f3-4c43-a269-3e49b40f98da",
+      "report_start_date": "2023-01-01"
+    },
+    {
+      "aktiva": {
+        "rows": [
+          {
+            "children": [],
+            "current_value": 128945600000,
+            "formatted_name": "Barreserve",
+            "name": "Barreserve",
+            "previous_value": 44568800000
+          },
+          {
+            "children": [],
+            "current_value": 76753500000,
+            "formatted_name": "Forderungen an Kreditinstitute",
+            "name": "Forderungen an Kreditinstitute",
+            "previous_value": 3200000
+          },
+          {
+            "children": [],
+            "current_value": 122903300000,
+            "formatted_name": "Forderungen an Kunden",
+            "name": "Forderungen an Kunden",
+            "previous_value": 490000
+          },
+          {
+            "children": [],
+            "current_value": 171342800000,
+            "formatted_name": "Schuldverschreibungen",
+            "name": "Schuldverschreibungen",
+            "previous_value": -790000
+          },
+          {
+            "children": [],
+            "current_value": 16368100000,
+            "formatted_name": "Beteiligungen, Anteile an verbundenen Unternehmen",
+            "name": "Beteiligungen, Anteile an verbundenen Unternehmen",
+            "previous_value": -240000
+          },
+          {
+            "children": [],
+            "current_value": 19215600000,
+            "formatted_name": "Handelsbestand",
+            "name": "Handelsbestand",
+            "previous_value": -1670000
+          },
+          {
+            "children": [],
+            "current_value": 22717300000,
+            "formatted_name": "Übrige Aktiva",
+            "name": "Übrige Aktiva",
+            "previous_value": 1140000
+          },
+          {
+            "children": [],
+            "current_value": 558246200000,
+            "formatted_name": "Bilanzsumme",
+            "name": "Bilanzsumme",
+            "previous_value": 1980000
+          }
+        ]
+      },
+      "consolidated": false,
+      "guv": {
+        "rows": [
+          {
+            "children": [],
+            "current_value": 6179300000,
+            "formatted_name": "Zinsaufwendungen",
+            "name": "Zinsaufwendungen",
+            "previous_value": 5255000000
+          },
+          {
+            "children": [],
+            "current_value": 0,
+            "formatted_name": "davon:",
+            "name": "davon:",
+            "previous_value": 0
+          },
+          {
+            "children": [],
+            "current_value": -210300000,
+            "formatted_name": "Positive Zinsen",
+            "name": "Positive Zinsen",
+            "previous_value": -172600000
+          },
+          {
+            "children": [],
+            "current_value": 740300000,
+            "formatted_name": "Provisionsaufwendungen",
+            "name": "Provisionsaufwendungen",
+            "previous_value": 551600000
+          },
+          {
+            "children": [],
+            "current_value": 1400000,
+            "formatted_name": "Nettoaufwand des Handelsbestands",
+            "name": "Nettoaufwand des Handelsbestands",
+            "previous_value": 0
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "current_value": 7646100000,
+                    "formatted_name": "Löhne und Gehälter",
+                    "name": "aa) Löhne und Gehälter",
+                    "previous_value": 7480500000
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "current_value": 0,
+                        "formatted_name": "darunter:",
+                        "name": "darunter:",
+                        "previous_value": 0
+                      }
+                    ],
+                    "current_value": 1355000000,
+                    "formatted_name": "soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung",
+                    "name": "ab) soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung",
+                    "previous_value": 1480600000
+                  }
+                ],
+                "current_value": 0,
+                "formatted_name": "Personalaufwand",
+                "name": "a) Personalaufwand",
+                "previous_value": 0
+              }
+            ],
+            "current_value": 0,
+            "formatted_name": "Allgemeine Verwaltungsaufwendungen",
+            "name": "Allgemeine Verwaltungsaufwendungen",
+            "previous_value": 0
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "current_value": 7285800000,
+                "formatted_name": "andere Verwaltungsaufwendungen",
+                "name": "b) andere Verwaltungsaufwendungen",
+                "previous_value": 7553200000
+              }
+            ],
+            "current_value": -365500000,
+            "formatted_name": "für Altersversorgung",
+            "name": "für Altersversorgung",
+            "previous_value": -443200000
+          },
+          {
+            "children": [],
+            "current_value": 335500000,
+            "formatted_name": "Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen",
+            "name": "Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen",
+            "previous_value": 340500000
+          },
+          {
+            "children": [],
+            "current_value": 1162300000,
+            "formatted_name": "Sonstige betriebliche Aufwendungen",
+            "name": "Sonstige betriebliche Aufwendungen",
+            "previous_value": 1142000000
+          },
+          {
+            "children": [],
+            "current_value": 0,
+            "formatted_name": "Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft",
+            "name": "Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft",
+            "previous_value": 883300000
+          },
+          {
+            "children": [],
+            "current_value": 16200000,
+            "formatted_name": "Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere",
+            "name": "Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere",
+            "previous_value": 0
+          },
+          {
+            "children": [],
+            "current_value": 487200000,
+            "formatted_name": "Aufwendungen aus Verlustübernahme",
+            "name": "Aufwendungen aus Verlustübernahme",
+            "previous_value": 205900000
+          },
+          {
+            "children": [],
+            "current_value": 0,
+            "formatted_name": "Einstellung in Fonds für allgemeine Bankrisiken",
+            "name": "Einstellung in Fonds für allgemeine Bankrisiken",
+            "previous_value": 44400000
+          },
+          {
+            "children": [],
+            "current_value": 112800000,
+            "formatted_name": "Steuern vom Einkommen und vom Ertrag",
+            "name": "Steuern vom Einkommen und vom Ertrag",
+            "previous_value": 359900000
+          },
+          {
+            "children": [],
+            "current_value": -391600000,
+            "formatted_name": "Sonstige Steuern, soweit nicht unter sonstigen betrieblichen Aufwendungen ausgewiesen",
+            "name": "Sonstige Steuern, soweit nicht unter sonstigen betrieblichen Aufwendungen ausgewiesen",
+            "previous_value": -227900000
+          },
+          {
+            "children": [],
+            "current_value": 24930300000,
+            "formatted_name": "Summe der Aufwendungen",
+            "name": "Summe der Aufwendungen",
+            "previous_value": 25069000000
+          }
+        ]
+      },
+      "passiva": {
+        "rows": [
+          {
+            "children": [],
+            "current_value": 132971000000,
+            "formatted_name": "Verbindlichkeiten gegenüber Kreditinstituten",
+            "name": "Verbindlichkeiten gegenüber Kreditinstituten",
+            "previous_value": 950000
+          },
+          {
+            "children": [],
+            "current_value": 342518700000,
+            "formatted_name": "Verbindlichkeiten gegenüber Kunden",
+            "name": "Verbindlichkeiten gegenüber Kunden",
+            "previous_value": 3440000
+          },
+          {
+            "children": [],
+            "current_value": 769800000,
+            "formatted_name": "Verbriefte Verbindlichkeiten",
+            "name": "Verbriefte Verbindlichkeiten",
+            "previous_value": 259700000
+          },
+          {
+            "children": [],
+            "current_value": 19365400000,
+            "formatted_name": "Handelsbestand",
+            "name": "Handelsbestand",
+            "previous_value": -1840000
+          },
+          {
+            "children": [],
+            "current_value": 10656500000,
+            "formatted_name": "Übrige Passiva",
+            "name": "Übrige Passiva",
+            "previous_value": -1530000
+          },
+          {
+            "children": [],
+            "current_value": 6200000000,
+            "formatted_name": "Nachrangige Verbindlichkeiten",
+            "name": "Nachrangige Verbindlichkeiten",
+            "previous_value": -1390000
+          },
+          {
+            "children": [],
+            "current_value": 45764800000,
+            "formatted_name": "Eigenkapital",
+            "name": "Eigenkapital",
+            "previous_value": -80000
+          },
+          {
+            "children": [],
+            "current_value": 558246200000,
+            "formatted_name": "Bilanzsumme",
+            "name": "Bilanzsumme",
+            "previous_value": 1980000
+          },
+          {
+            "children": [],
+            "current_value": 38238700000,
+            "formatted_name": "Avale, Akkreditive",
+            "name": "Avale, Akkreditive",
+            "previous_value": 380000
+          },
+          {
+            "children": [],
+            "current_value": 596484900000,
+            "formatted_name": "Geschäftsvolumen",
+            "name": "Geschäftsvolumen",
+            "previous_value": 1860000
+          }
+        ]
+      },
+      "report_end_date": "2018-12-31",
+      "report_id": "47f3269d-59fa-4269-81c1-39b292598df7",
+      "report_start_date": "2018-01-01"
+    }
+  ]
+}

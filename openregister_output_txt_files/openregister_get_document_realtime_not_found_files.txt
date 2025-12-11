@@ -1,0 +1,7 @@
+PS D:\master\hackathon future pioneers\hackathon> node openregister_get_document_realtime.js
+No document found for company_id: DE-HRB-M1201-128843 with category: historical_printout
+No document found for company_id: DE-HRB-M1201-128843 with category: shareholder_list
+No document found for company_id: DE-HRB-M1201-43507 with category: current_printout
+No document found for company_id: DE-HRB-M1201-43507 with category: structured_information
+No document found for company_id: DE-HRB-M1201-43507 with category: shareholder_list
+No document found for company_id: DE-HRB-M1201-43507 with category: articles_of_association

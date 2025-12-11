@@ -1,0 +1,31 @@
+{
+  "age": 69,
+  "city": "Bad Homburg v. d. Höhe",
+  "date_of_birth": "1956-01-14",
+  "first_name": "Hannelore",
+  "id": "cc302aad-6e26-4140-8fba-10bae1c3c434",
+  "last_name": "Eberz",
+  "management_positions": [
+    {
+      "company_name": "FORCET GmbH",
+      "end_date": "2006-08-03",
+      "register_id": "DE-HRB-M1201-54723",
+      "role": "DIRECTOR",
+      "start_date": "2004-06-28"
+    },
+    {
+      "company_name": "Close Brothers Seydler AG Wertpapierhandelsbank, Filiale Düsseldorf",
+      "end_date": "2012-05-10",
+      "register_id": "DE-HRB-R1101-44900",
+      "role": "EXECUTIVE",
+      "start_date": "2003-09-29"
+    },
+    {
+      "company_name": "ODDO BHF Corporates & Markets AG",
+      "end_date": "2008-11-10",
+      "register_id": "DE-HRB-M1201-43507",
+      "role": "EXECUTIVE",
+      "start_date": "2004-08-31"
+    }
+  ]
+}

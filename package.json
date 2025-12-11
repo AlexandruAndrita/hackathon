@@ -1,0 +1,25 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "open_register.js",
+  "scripts": {
+    "start": "node open_register.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandruAndrita/hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlexandruAndrita/hackathon/issues"
+  },
+  "homepage": "https://github.com/AlexandruAndrita/hackathon#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openregister": "^2.2.0"
+  }
+}

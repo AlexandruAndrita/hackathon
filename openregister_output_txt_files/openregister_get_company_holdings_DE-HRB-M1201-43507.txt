@@ -1,0 +1,4 @@
+{
+  "company_id": "DE-HRB-M1201-43507",
+  "holdings": []
+}

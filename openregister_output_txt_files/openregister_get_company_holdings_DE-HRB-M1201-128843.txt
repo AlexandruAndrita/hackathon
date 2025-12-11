@@ -1,0 +1,320 @@
+{
+  "company_id": "DE-HRB-M1201-128843",
+  "holdings": [
+    {
+      "company_id": "DE-HRB-R1101-11971",
+      "end": null,
+      "name": "ODDO BHF Asset Management GmbH",
+      "nominal_share": 10300000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-42604",
+      "end": null,
+      "name": "BHF Private Equity Treuhand- und Beratungsgesellschaft mbH",
+      "nominal_share": 50000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-10693",
+      "end": null,
+      "name": "Frankfurter Vermögens-Treuhand Gesellschaft mit beschränkter Haftung",
+      "nominal_share": 100000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-15565",
+      "end": null,
+      "name": "Industrie-Beteiligungs-Gesellschaft mit beschränkter Haftung",
+      "nominal_share": 2000000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-10692",
+      "end": null,
+      "name": "FRANKFURT-TRUST Investment-Gesellschaft mit beschränkter Haftung",
+      "nominal_share": 16000000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-34040",
+      "end": null,
+      "name": "DPG Deutsche Performancemessungs-Gesellschaft für Wertpapierportfolios mbH",
+      "nominal_share": 66600,
+      "percentage_share": 11.1,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-29825",
+      "end": null,
+      "name": "Office Grundstücksverwaltungsgesellschaft mbH",
+      "nominal_share": 100000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-T2304-43459",
+      "end": null,
+      "name": "Bürgschaftsbank Rheinland-Pfalz GmbH",
+      "nominal_share": 24772,
+      "percentage_share": 0.239,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-7955",
+      "end": null,
+      "name": "AKA Ausfuhrkredit-Gesellschaft mit beschränkter Haftung",
+      "nominal_share": 380950,
+      "percentage_share": 1.858,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-74320",
+      "end": null,
+      "name": "US Real Estate Beteiligungs GmbH",
+      "nominal_share": 25000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-V1109-107146",
+      "end": null,
+      "name": "ODDO BHF Solutions GmbH",
+      "nominal_share": 25000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-11593",
+      "end": null,
+      "name": "Frankfurter Beteiligungs-Treuhand Gesellschaft mit beschränkter Haftung",
+      "nominal_share": 100000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-24439",
+      "end": null,
+      "name": "ODDO BHF Trust GmbH",
+      "nominal_share": 52000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-75281",
+      "end": null,
+      "name": "BHF Private Equity Management GmbH",
+      "nominal_share": 25000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-41736",
+      "end": null,
+      "name": "BHF-Betriebsservice GmbH",
+      "nominal_share": 50000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-31954",
+      "end": null,
+      "name": "BHF Immobilien-GmbH",
+      "nominal_share": 3100000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-80376",
+      "end": null,
+      "name": "EURO Kartensysteme GmbH",
+      "nominal_share": 50,
+      "percentage_share": 0.002,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRB-M1201-51846",
+      "end": null,
+      "name": "ODDO BHF Family Office GmbH",
+      "nominal_share": 50000,
+      "percentage_share": 100,
+      "relation_type": "shareholder",
+      "start": null
+    },
+    {
+      "company_id": "DE-HRA-D2601-83040",
+      "end": "2025-05-28",
+      "name": "VCM Partners GmbH & Co. KG",
+      "nominal_share": 500,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2012-02-17"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29464",
+      "end": null,
+      "name": "VCM V Venture Capital USA GmbH & Co. KG",
+      "nominal_share": 1000,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2012-11-12"
+    },
+    {
+      "company_id": "DE-HRA-R3306-28676",
+      "end": null,
+      "name": "VCM VII European Mid-Market Buyout GmbH & Co. KG",
+      "nominal_share": 150000,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2011-09-21"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29433",
+      "end": null,
+      "name": "European Private Equity Portfolio (PE-EU) GmbH & Co. KG",
+      "nominal_share": 1000,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2024-10-25"
+    },
+    {
+      "company_id": "DE-HRA-M1201-28751",
+      "end": null,
+      "name": "Real Estate Portfolio International (REP-I) GmbH & Co. KG",
+      "nominal_share": 990,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2025-02-25"
+    },
+    {
+      "company_id": "DE-HRA-M1201-26602",
+      "end": "2012-06-13",
+      "name": "Office Immobilien GmbH & Co. KG",
+      "nominal_share": 168215.03,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2006-09-07"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29471",
+      "end": null,
+      "name": "Mezzanine Capital USA II (MC-US II) GmbH & Co. KG",
+      "nominal_share": 500,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2023-04-13"
+    },
+    {
+      "company_id": "DE-HRA-R3306-28976",
+      "end": null,
+      "name": "VCM III Institutional Equity Partners GmbH & Co. KG",
+      "nominal_share": 2575,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2016-04-04"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29460",
+      "end": null,
+      "name": "Mezzanine Capital Europe II (MC-EU II) GmbH & Co. KG",
+      "nominal_share": 500,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2023-04-25"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29140",
+      "end": null,
+      "name": "Private Equity Portfolio USA GmbH & Co. KG",
+      "nominal_share": 400,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2024-11-04"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29467",
+      "end": null,
+      "name": "America/Asia Private Equity Portfolio (PE-US/ASIA) GmbH & Co. KG",
+      "nominal_share": 1000,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2024-12-10"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29154",
+      "end": null,
+      "name": "Mezzanine Capital USA (MC-US) GmbH & Co. KG",
+      "nominal_share": 500,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2012-06-14"
+    },
+    {
+      "company_id": "DE-HRA-M1201-51367",
+      "end": null,
+      "name": "Futury Regio Growth GmbH & Co. KG",
+      "nominal_share": 250,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2020-12-17"
+    },
+    {
+      "company_id": "DE-HRA-D2601-82561",
+      "end": "2025-05-16",
+      "name": "VCM / BHF Initiatoren GmbH & Co. Beteiligungs KG",
+      "nominal_share": 4875,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2025-05-16"
+    },
+    {
+      "company_id": "DE-HRA-M1201-46096",
+      "end": "2022-12-15",
+      "name": "Mittelstand Co-Investment Portfolio GmbH & Co.KG",
+      "nominal_share": 30,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2011-01-06"
+    },
+    {
+      "company_id": "DE-HRA-R3306-29429",
+      "end": null,
+      "name": "Mezzanine Capital Europe (MC-EU) GmbH & Co. KG",
+      "nominal_share": 500,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2012-10-23"
+    },
+    {
+      "company_id": "DE-HRA-M1201-43216",
+      "end": "2018-11-20",
+      "name": "German Equity Partners III GmbH & Co. KG",
+      "nominal_share": 1000,
+      "percentage_share": null,
+      "relation_type": "limited_partner",
+      "start": "2006-09-12"
+    }
+  ]
+}
